@@ -53,7 +53,7 @@ for (int i = 0; i < row; i++)
         cout << " " << " ";
     }
     }
-    cout << "\n";
+    cout << endl;
 }
 }
  
